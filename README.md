@@ -38,11 +38,11 @@ Ensure you have Python installed and the following packages:
 ### Installation
 
 1. Clone the repository:
-   ```   git clone https://github.com/yourusername/agricultural-pests-classification.git ```
+   ```   git clone https://github.com/saibhaskar010/agricultural-pests-classification.git ```
 2. Install the required packages:
    ``` pip install -r requirements.txt ```
 3. Running the Notebook
-   ``` jupyter notebook agricultural_pests_classification.ipynb  ```
+   ``` jupyter notebook PestClassification.ipynb  ```
 
 ### 🤝 Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
