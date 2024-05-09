@@ -1,0 +1,8 @@
+tensorflow==2.5.0
+keras==2.4.3
+numpy
+pandas
+matplotlib
+scikit-learn
+Pillow
+opencv-python-headless
